@@ -1,0 +1,13 @@
+node_modules/
+dist/
+target/
+.idea/
+.vscode/
+*.log
+.env
+.env.*
+!.env.example
+application-local.properties
+edit-feature-backup-*/
+output/
+.DS_Store
